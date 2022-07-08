@@ -1,0 +1,21 @@
+.container {
+    position:relative;
+    display: inline;
+    border-top: 30px;
+}
+
+.button-digits{
+    background-color: lightgrey;
+    border-width: 2px;
+    width: 60px;
+    height:50px;
+}
+
+.button-digits:hover{
+    background-color: #adfdfd;
+}
+
+.button-digits:active{
+    background-color: #ade9f8;
+  transform: translateY(3px);
+}
